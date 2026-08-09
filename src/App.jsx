@@ -4,6 +4,8 @@ import {Routes} from "react-router-dom";
 import ChatPage from "./pages/ChatPage/ChatPage.jsx";
 import LoginPage from "./pages/LoginPage/LoginPage.jsx";
 import RegisterPage from "./pages/RegisterPage/RegisterPage.jsx";
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 function App() {
 
