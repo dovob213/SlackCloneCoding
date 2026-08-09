@@ -9,3 +9,5 @@ export const store = configureStore({
         chatRoom: chatRoomReducer
     }
 })
+
+export default store;
